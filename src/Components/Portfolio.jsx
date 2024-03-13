@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Voice to Text Web App 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Transform spoken words into written text effortlessly with our Voice-to-Text Web App. Enjoy real-time transcription accuracy and seamless integration across devices for streamlined productivity. Perfect for professionals and students alike, simplify your workflow and capture ideas on-the-go with ease.",
+    url: "https://speech-to-text-qlxvmzbpg-awais-ur-rehman.vercel.app/",
   },
   {
     title: "Web Development for Beginners",
